@@ -1,6 +1,6 @@
 title: Bé Học Lượng Tử
 description: > # this means to ignore newlines until "baseurl:"
-  Bé 18 tuổi và đang học về Quantum Machine Learning. Bé chưa có người yêu!
+  Chào mừng bạn đến với Bé đi học. Bé 18 tuổi và đang học về Quantum Machine Learning. Bé chưa có người yêu!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog  /flexible-jekyll
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: kidlearn.quantum@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: Phoebus # add your discus identifier
+discus-identifier: Kid Learn # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
