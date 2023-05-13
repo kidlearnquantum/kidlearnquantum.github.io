@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Bé Đi Học # add your name
 author-img: kid-learn.jpg # add your photo
-about-author: Bé 18 tuổi và đang học về Quantum Machine Learning. Bé chưa có người yêu! # add description
+about-author: Bé đang học về Quantum Machine Learning. Bé 18 tuổi và chưa có người yêu! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: kidlearnquantum # add your Github handle
@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: kidlearn.quantum@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: Kid Learn # add your discus identifier
+discus-identifier: co_kim # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
