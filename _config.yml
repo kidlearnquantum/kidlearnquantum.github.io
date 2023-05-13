@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: kidlearn.quantum@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: co_kim # add your discus identifier
+discus-identifier: https-kidlearnquantum-github-io # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
